@@ -1,0 +1,11 @@
+2021-05-02 18:43:50,608 TestSuite[line:21] INFO 已找到TestSuite文件，开始分析测试集...
+2021-05-02 18:43:50,636 TestSuite[line:36] INFO *****************************
+2021-05-02 18:43:50,637 TestSuite[line:37] INFO 执行 login 测试场景
+2021-05-02 18:43:50,637 TestSuite[line:125] INFO 已找到 C:\Users\Administrator\PycharmProjects\LoginTest\data\login.xlsx 测试用例，现在开始读取该用例
+2021-05-02 18:43:50,661 TestSuite[line:136] INFO 准备启动浏览器
+2021-05-02 18:43:59,988 LoginPage[line:15] INFO 输入用户名：hanjinping 
+2021-05-02 18:44:00,146 LoginPage[line:19] INFO 输入用户名：hjp123456H. 
+2021-05-02 18:44:00,296 LoginPage[line:23] INFO 点击登录按钮
+2021-05-02 18:44:08,349 MainPage[line:21] INFO 当前用户ID是：hanjinping
+2021-05-02 18:44:21,669 MainPage[line:41] INFO 成功退出测试系统
+2021-05-02 18:44:28,682 TestSuite[line:45] INFO userregister 场景无须测试
